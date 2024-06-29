@@ -47,7 +47,7 @@ img {
 .blog__card {
   background-color: var(--WHITE);
   border-radius: 1rem;
-  padding: 1rem;
+  padding: 1.5rem;
   border: 1px solid var(--BLACK);
   box-shadow: 0.5rem 0.5rem var(--BLACK);
   transition: all;
